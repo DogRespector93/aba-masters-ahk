@@ -1,4 +1,4 @@
-# Simmons Masters AutoHotkey Script
+# ABA Masters AutoHotkey Script
 
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2-blue)
 ![Windows](https://img.shields.io/badge/Windows-10%2B-0078D4)
