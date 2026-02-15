@@ -48,6 +48,19 @@ Once running, the script activates specific hotkeys. To see what they do:
 ^!a::SendText "Hello, this is template text"
 ```
 
+## Hotkeys
+
+The script inserts the following prefixed symbols; most are case-sensitive hotstrings that begin with a semicolon (`;`).
+
+| Trigger | Output |
+| --- | --- |
+| `;Delta` | `Δ` |
+| `;supD` | `ᴰ` |
+| `;supp` | `ᵖ` |
+| `;sd` or `;sdelta` | `Sᴰ` / `SΔ` (two symbols) |
+| `;sdp` or `;sdelp` | `Sᴰᵖ` / `SΔᵖ` (two symbols) |
+| `;SDp`, `;Sdp`, `;SΔp`, `;Sdelp` | Variants producing `Sᴰᵖ` or `SΔᵖ` |
+
 ## Stopping the script
 
 Right-click the green **H** icon in the system tray (bottom-right) and select **Exit**.
